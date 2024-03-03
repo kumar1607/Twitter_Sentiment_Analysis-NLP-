@@ -18,6 +18,7 @@ For training the models, we provide a labelled dataset of 31,962 tweets. The dat
 <li>matplotlib
 <li>seaborn
 <li>scikit-learn
+<li>nltk
 
 # Algorithms
 
